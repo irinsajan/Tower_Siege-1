@@ -4,10 +4,6 @@ class Block extends BaseClass {
       
     }
 
-    display() {
-      var pos = this.body.position;
-      
-  }
-  
+   
   };
   
